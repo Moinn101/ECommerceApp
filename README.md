@@ -2,13 +2,16 @@ E-Commerce Product Details App
 
 Overview
 
+
 This Android application fetches and displays product details for an e-commerce platform, built as an assignment for Inovant Solutions.
 
 Developed using Kotlin with MVVM architecture, it uses Retrofit to parse data from a provided web service and presents a clean, 
 
 responsive UI that matches the provided design mockups, ensuring a seamless user experience.
 
+
 Features
+
 
 Displays product name, SKU, price, brand, and description.
 
@@ -28,6 +31,7 @@ Kotlin for development.
 
 
 How to Run
+
 
 Clone the repository.
 
